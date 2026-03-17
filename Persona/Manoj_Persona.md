@@ -43,10 +43,17 @@ NZD 70,000
 
 
 ## Frustrations
-- Using old or slow software really drags down and makes it hard to get things done.
-- Get annoyed when team communication is not clear, as it can create confusion and mistakes in the project.
-- Sometimes spend many hours trying to fix a small coding error, which can be mentally tiring.
-- Tight deadlines sometimes force to work late nights, which affects work life balance and personal time.
+• Hidden Costs
+When extra shipping fees or taxes appear only at the last checkout step.
+
+• Slow Website
+If the website loads slowly or keeps buffering, he gets annoyed. 
+
+•Constant Ads Pop-ups
+If too many ands shows up he does not want to continue shopping. 
+
+• Poor Product Information
+Not enough details, unclear descriptions, or missing size charts.
 
 
 
