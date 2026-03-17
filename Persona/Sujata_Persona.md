@@ -1,7 +1,6 @@
 # Emily
 
-![Emily](emily.png)
-
+![Emily](../Images/emily.png) 
 
 
 > “I see it, I like it, I want it, I buy it.”
