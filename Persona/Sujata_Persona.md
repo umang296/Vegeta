@@ -1,6 +1,6 @@
 # Emily
 
-![Emily]('/Users/sujata/Desktop/agile projects/Agile-Iteration-1/emily.png')
+![Emily](emily.png)
 
 
 

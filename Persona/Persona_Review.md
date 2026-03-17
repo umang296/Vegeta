@@ -12,6 +12,21 @@ My first impression is that Emily is an impulsive shopper based on her quote "I 
 
 After reviewing the persona in detail, I think it is a well written persona and gives us a good understanding of user's motivations, goals and frustrations during online shopping. The persona also consists of her past negative events like scams, and having payments go through twice, which makes the persona feel more real and help the team understand the kind of trust and reliability our website needs to build. Overall I am satisfied with this persona.
 
+# Persona Review by Sujata
+## Umang's Persona
+**Jaxon Miller**
+This persona overall is really nice and very detailed but it is not that realistic, some improvement required including removing some irrelevent parts that are overexplaining his obstacles and his relevancy points.
+Other than that, I believe this persona could be used for our marketing strategies and advertisement options.
+
+**After improvement**: Detailed but not overexplained, all improvements and changes done accurately.
+
+## Manoj's Persona
+**Daniel Singh**
+The persona seems a bit like negative persona, someone who does not use ecommerce much. This persona's frustations and obstacles are all related to his work and not something that can be used to improve our project. Needs a bit more improvements.
+However, the persona is in IT feild, so we can think from his point of view to make our projrct better as a person in the same feild shall notice small details that other people may not.
+
+**After improvement**: The obstacles and challenges are aligned with our project and shall make our project better.
+
 # Persona Review by Manoj
 
 ## Review Own Self
@@ -46,3 +61,4 @@ However, Emily faces some realistic problems when using online shopping websites
 Understanding Emily’s goals and frustrations can help improve the website by making it easier to navigate, faster to use, and more convenient for online shoppers.
 
 ---
+
