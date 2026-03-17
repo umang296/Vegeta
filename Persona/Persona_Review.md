@@ -1,6 +1,7 @@
 # Persona Review by Umang
-
+---
 ## Sujata's Persona
+### Emily
 
 In my opinion, the persona 'Emily' gives a clear understanding of a typical young online shopper. She is a student who enjoys buying different sorts of things. Her preference for a easy to use website,detailed product description, and affordable shipping are important for an eCommerce platform like ours's. I think this persona highlights some common frustrations such as fake reviews, high shipping cost, etc.
 
@@ -12,6 +13,23 @@ My first impression is that Emily is an impulsive shopper based on her quote "I 
 
 After reviewing the persona in detail, I think it is a well written persona and gives us a good understanding of user's motivations, goals and frustrations during online shopping. The persona also consists of her past negative events like scams, and having payments go through twice, which makes the persona feel more real and help the team understand the kind of trust and reliability our website needs to build. Overall I am satisfied with this persona.
 
+
+## Manoj's Persona
+### Daniel
+
+In my opinion, the persona 'Daniel' gives us some idea of a IT professional living in Auckland who is driven, goal-oriented, and values his time above most things. He may not be a frequent online shopper, but that actually makes his perspective more valuable because when someone like Daniel does visit a website, he brings a sharp, critical eye that a average user do not have. Being a software developer himself, he would instantly notice things like slow load times, clunky navigation, or poor design, and he would not stick around to give it a second chance.
+
+## First Impression
+
+My first impression of Daniel is that he is not the kind of person who browses online stores out of boredom.He is purposeful in everything he does, including how he spends his money and his time. I initially thought he might not be the most relevant persona for an eCommerce platform since he does not shop online frequently, but after reading more I realised his insight is actually more useful than a casual shopper's, because he would hold our platform to a much higher standard.
+
+
+
+## Last Impression
+
+After reviewing Daniel's persona in full, what stands out most to me is how little room for error his personality leaves. He loves financial stability, so hidden costs at checkout would feel like a betrayal of trust. He hates wasted time, so a page that takes long to load might already be enough to lose him. While Daniel might not be our most frequent user, designing with someone like him in mind would push our team to build something that is smooth, fast, and well designied. Which can benefit every user on our platform. Overall I think this is a very useful persona.
+
+---
 # Persona Review by Sujata
 ## Umang's Persona
 **Jaxon Miller**
@@ -26,6 +44,8 @@ The persona seems a bit like negative persona, someone who does not use ecommerc
 However, the persona is in IT feild, so we can think from his point of view to make our projrct better as a person in the same feild shall notice small details that other people may not.
 
 **After improvement**: The obstacles and challenges are aligned with our project and shall make our project better.
+
+---
 
 # Persona Review by Manoj
 
