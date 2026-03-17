@@ -1,5 +1,6 @@
 
 # User Persona: Daniel Singh
+![Daniel Singh](../Images/persona.jpg.avif)
 ## Quotation
 > Success comes from turning ideas into action, not just dreaming about them.
 

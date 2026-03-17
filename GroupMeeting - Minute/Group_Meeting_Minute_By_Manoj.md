@@ -76,11 +76,7 @@ The group gained a brief understanding of personas for the assignment and decide
 
 # Other Information
 
-### Resources
-To be added.
 
 ### Date of Next Meeting
-To be decided.
+11 March, 2026
 
-### Special Notes
-None.
