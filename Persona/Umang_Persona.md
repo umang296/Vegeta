@@ -1,12 +1,12 @@
 # User Persona: Jaxon Miller
-
+![alt text](../Images/Jaxon.png)
 ## Basic Information
 | Attribute | Details |
 |---|---|
 | Name | Jaxon Miller |
 | Age | 13 |
 | Gender | Male |
-| Location | Christchurch |
+| Location | Australia , Canberra |
 | Occupation | Middle School Student |
 | Job Title | None (Student / Gamer) |
 | Education | Year 9 |
@@ -43,8 +43,7 @@
 ## Frustrations
 
 1. **Hidden Fees**  
-   Shipping costs or taxes appearing only at the last step of checkout can be frustrating.  
-   He prefers knowing the full cost early.
+   Shipping costs or taxes appearing only at the last step of checkout can be frustrating. He prefers knowing the full cost early.
 
 2. **Slow Mobile Experience**  
    If a website takes more than **4 seconds** to load, he may assume it is broken and leave. 
@@ -68,3 +67,11 @@ Also, get annoyed by it.
 **In-Person Advice**
 - Older siblings  
 - Staff at local computer shops
+
+---
+
+## Reference
+
+Google. (2026). _Gemini 3 Flash_ [Large language model].
+
+https://gemini.google.com/app/e283b0fa602d3120 

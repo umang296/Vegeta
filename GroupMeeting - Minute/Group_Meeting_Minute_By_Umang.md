@@ -37,7 +37,7 @@ Everybody explained their persona in the meeting.
 
 ### Review Outcome
 
-Everyone is satisfied with Sujata's persona — well-written and thoughtful. Manoj's persona was flagged for improvements around frustrations and source of information. Umang's persona had some extra criteria around relevance and needs slight improvements.
+Everyone is satisfied with Sujata's persona .It is well written and thoughtful. Manoj's persona was flagged for improvements around frustrations and source of information. Umang's persona had some extra criteria around relevance and needs slight improvements.
 
 ### Action Items
 
