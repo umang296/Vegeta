@@ -37,7 +37,7 @@
 
 ### Agenda Item 1: Discussing User Acceptance Test Plan
 
-- **Presenter:** Manoj Kumar Panthi  
+- **Presenter:** Umang Maharjan 
 
 ### Discussion
 
