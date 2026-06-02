@@ -30,5 +30,5 @@
 - [User Testing](./UserAcceptanceTest.md)
 ---
 ## About us
---
+
 We are a Team of three people: Umang Maharjan, Sujata Maharjan and Manoj Kumar Panthi studying together at EIT in New Zealand Hawkes bay. We worked together on all the iterations during this course. In our team, we all divided our workload and worked well together. Although we could improve on a lot of aspects, we had experience of working in a team. 
