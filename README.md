@@ -1,7 +1,5 @@
-# Vegeta
-
-## Contents Page
-
+# Team Vegeta
+## Our Repository
 ---
 
 ### Iteration 1
@@ -22,7 +20,6 @@
 - [Meeting Minutes Manoj](./group_meeting_mnoj.md)
 - [Gantt Chart](#)
 - [Resource Needs](./resource_needs.md)
--
 
 ### Iteration 3
 
@@ -31,5 +28,7 @@
 - [Meeting Minutes Manoj](./Group_Meeting_Minute_By_Manoj.md)
 - [Risk Register](./Risk_register.md)
 - [User Testing](./UserAcceptanceTest.md)
-
-
+---
+## About us
+--
+We are a Team of three people: Umang Maharjan, Sujata Maharjan and Manoj Kumar Panthi studying together at EIT in New Zealand Hawkes bay. We worked together on all the iterations during this course. In our team, we all divided our workload and worked well together. Although we could improve on a lot of aspects, we had experience of working in a team. 
