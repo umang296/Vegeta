@@ -18,7 +18,7 @@
 - [Meeting Minutes Sujata](./meeting_1_sujata.md)
 - [Meeting Minutes Umang](./Group_Meeting_Minute_by_Umang.md)
 - [Meeting Minutes Manoj](./group_meeting_mnoj.md)
-- [Gantt Chart](#)
+- [Gantt Chart](./GanttChart.md)
 - [Resource Needs](./resource_needs.md)
 
 ### Iteration 3
