@@ -8,9 +8,9 @@
 - [Meeting Minutes Umang](./Group_Meeting_Minute_By_Umang.md)
 - [Meeting Minutes Manoj](./Group_Meeting_Minute_By_Manoj.md)
 - [Stakeholder Register](./Stakesholder.md)
-- [Persona 1:](./Umang_Persona.md)
-- [Persona 2:](./Sujata_Persona.md)
-- [Persona 3:](./Manoj_Persona.md)
+- [Persona by Umang](./Umang_Persona.md)
+- [Persona by Sujata](./Sujata_Persona.md)
+- [Persona by Manoj](./Manoj_Persona.md)
   
 
 ### Iteration 2
